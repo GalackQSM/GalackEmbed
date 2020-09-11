@@ -16,7 +16,7 @@ Offres GalackEmbed:
 ## Installation
 
 * Ouvrer le dossier `GalackEmbed` ouvrer le via cmd
-* Ensuite une fois ça fais, faite `node server start`
+* Ensuite une fois ça fais, faite `node start`
 * Patientez, et une fenêtre vas s'ouvrir, ensuite mettez le token de votre bot dans `Mettre le token du bot` et cliquez sur Connexion
 
 ## Liens
