@@ -7,7 +7,7 @@
 GalackEmbed est un tool pour faire des embed Discord via votre bot Discord codé en JavaScript avec [Discord.js](https://discord.js.org) par [GalackQSM](https://github.com/GalackQSM).  
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 
-### Discord-Infos
+### GalackEmbed
 
 Offres GalackEmbed:
 *   ✉️ Crée des embeds via votre bot Discord
