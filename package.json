@@ -1,0 +1,20 @@
+{
+  "name": "GalackEmbed",
+  "productname": "GalackEmbed par GalackQSM#7926",
+  "version": "1.0.0",
+  "description": "GalackEmbed est un outil visuel qui vous permet de créer et d'envoyer facilement une intégration pour Discord. Il fonctionne avec votre propre bot sans avoir besoin de coder quoi que ce soit",
+  "main": "mains.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . --overwrite --icon=files/icon.ico"
+  },
+  "author": "GalackQSM#7926",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "electron": "^7.1.2"
+  },
+  "devDependencies": {
+    "electron-packager": "^14.1.1"
+  }
+}
